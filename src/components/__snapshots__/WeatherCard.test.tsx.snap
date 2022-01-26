@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render properly the Weather Card 1`] = `
+<div
+  className="sc-bdvvtL goGkoR"
+>
+  <div
+    className="sc-gsDKAQ gFrkXI"
+  >
+    1234567
+  </div>
+  <img
+    alt="clear"
+    className="sc-hKwDye jOUQVu"
+  />
+  <div
+    className="sc-dkPtRN laGaeU"
+  >
+    23
+    °C
+  </div>
+</div>
+`;

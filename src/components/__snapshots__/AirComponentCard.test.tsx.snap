@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render properly the Air Component Card 1`] = `
+<div
+  className="sc-bdvvtL kIatee"
+>
+  <div
+    className="sc-gsDKAQ kuZoDU"
+  >
+    Monoxyde de carbone
+  </div>
+  <div
+    className="sc-dkPtRN keSRXu"
+  >
+    12.35
+    μg/m3
+  </div>
+</div>
+`;
+
+exports[`should render properly the App 1`] = `
+<div
+  className="sc-bdvvtL kIatee"
+>
+  <div
+    className="sc-gsDKAQ kuZoDU"
+  >
+    Monoxyde de carbone
+  </div>
+  <div
+    className="sc-dkPtRN keSRXu"
+  >
+    12.35
+    μg/m3
+  </div>
+</div>
+`;
