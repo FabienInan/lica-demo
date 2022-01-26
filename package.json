@@ -29,6 +29,7 @@
     "start": "react-dotenv && react-scripts start",
     "build": "react-dotenv && react-scripts build",
     "test": "jest",
+    "test-update": "jest --u",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
